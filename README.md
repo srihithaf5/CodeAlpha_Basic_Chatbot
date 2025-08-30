@@ -29,3 +29,4 @@ python basic_chatbot.py
 
 OUTPUT:
 
+<img width="821" height="249" alt="Image" src="https://github.com/user-attachments/assets/629de5d6-2f18-455d-8ce1-d4fe161a361f" />
