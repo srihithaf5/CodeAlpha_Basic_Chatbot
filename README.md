@@ -1,9 +1,9 @@
 # CodeAlpha_Basic_Chatbot
-🤖 Basic Chatbot
+🤖 ## Basic Chatbot
 
 A simple rule-based chatbot built in Python. The chatbot responds to user inputs like greetings, small talk, and farewells using predefined rules.
 
-🎯 Goal
+🎯 ## Goal
 
 Build a chatbot that:
 
